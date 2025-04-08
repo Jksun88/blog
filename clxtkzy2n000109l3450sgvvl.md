@@ -1,11 +1,12 @@
 ---
-title: "Sécurité des images"
-seoTitle: "Kubernetes Images Security Basics"
-seoDescription: "Guide pour sécuriser les connexions aux registres d'images Docker dans Kubernetes"
+title: "Connecter un Cluster Kubernetes à un Registre d'Images Privé"
+seoTitle: "Kubernetes Cluster: Link to Private Image Registry"
+seoDescription: "Connectez Kubernetes à un registre d'images privé avec des secrets docker-registry pour des déploiements sécurisés"
 datePublished: Mon Jun 24 2024 23:00:51 GMT+0000 (Coordinated Universal Time)
 cuid: clxtkzy2n000109l3450sgvvl
-slug: securite-des-images
-tags: kubernetes, kubernetes-security
+slug: connecter-un-cluster-kubernetes-a-un-registre-dimages-prive
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/YniQ5vouxqg/upload/c2a4a567ac839d0af9e910b3d6299017.jpeg
+tags: kubernetes, registry, kubernetes-security
 
 ---
 
